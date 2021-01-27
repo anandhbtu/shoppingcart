@@ -1,0 +1,37 @@
+{
+  "name": "shopping_cart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "accesscontrol": "^2.2.1",
+    "bcrypt": "^5.0.0",
+    "corb": "0.0.1-security",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "email-validator": "^2.0.4",
+    "express": "^4.17.1",
+    "express-jwt": "^6.0.0",
+    "http-errors": "^1.8.0",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.20",
+    "morgan": "^1.10.0",
+    "mysql2": "^2.2.5",
+    "path": "^0.12.7",
+    "query-string": "^6.13.7",
+    "sequelize": "^6.3.5",
+    "serve-favicon": "^2.5.0",
+    "url": "^0.11.0",
+    "x-xss-protection": "^2.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.15.0",
+    "eslint-config-standard": "^16.0.2"
+  }
+}
